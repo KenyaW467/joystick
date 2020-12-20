@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/try_joystick.unity
+- path: C:/Users/PC_User/Desktop/Unity/SwipeCar/Assets/GameScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
